@@ -18,5 +18,8 @@ public class Etoile {
 		int n=8; int espace = 0;
 		triangle(n,espace);
 	}
+
+		/* peu mieu faire (chawki)*/ 
 }
+
 
