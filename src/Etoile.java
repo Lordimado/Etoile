@@ -16,6 +16,9 @@ public class Etoile {
 }
 	public static void main(String [] args){
 		int n=8; int espace = 0;
+/*
+utilise un scanner pour obtenir un programme interactif avec l'utilisateur, il prend toujours 8 comme entréé
+*/
 		triangle(n,espace);
 	}
 }
